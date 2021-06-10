@@ -1,0 +1,15 @@
+a:link, a:visited {
+  border: 2px solid black;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+a:hover, a:active {
+  background: green;
+  border: none;
+}
